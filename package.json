@@ -1,0 +1,17 @@
+{
+  "name": "cors-server",
+  "version": "0.0.1",
+  "author": "Israel Martins",
+  "description": "cors server",
+  "engines": {
+    "node": "latest",
+    "npm": "latest"
+  },
+  "dependencies": {
+    "cors-anywhere": "^0.4.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "devDependencies": {}
+}
